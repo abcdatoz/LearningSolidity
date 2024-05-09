@@ -7,7 +7,7 @@ contract ViewAndPure {
 	uint256 public x =1;
 
 
-	//this not modify the statae
+	//this not modify the state
 	function addToX(uint256 y) public view returns(uint256){
 		return x + y;
 	}
