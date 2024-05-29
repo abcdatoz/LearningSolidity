@@ -217,3 +217,66 @@ library ECDSA {
 
 
 }
+
+
+/*
+
+
+
+
+  + 52 + 228 + 1172511  
+
+
+  Reynaldo Hernández Libreros
+  Software developer | Automatización de procesos  
+  +52-2281-17-25-11
+  abcdatoz.code@gmail.com
+  https://www.linkedin.com/in/reynaldo-hern%C3%A1ndez-libreros-a349aaa/
+  https://github.com/abcdatoz
+  Xalapa, Veracruz, México
+
+
+  https://enhancv.com/es/plantillas-de-cv/?utm_source=google&utm_medium=cpc&utm_campaign=search_spanish_sp_mx&utm_term=cv&gad_source=1&gclid=EAIaIQobChMI-aDz38WNhgMVwk1_AB1Rug7JEAAYAiAAEgLjivD_BwE
+  
+  * perfil profesional			
+	> desarrollador C# con más de 20 años de experiencia en la sistematización de procesos administrativos.
+		mi experiencia abarca desde el desarrollo de aplicaciones de escritorio, aplicaciones web y rest-apis.
+		usando la programación estructurada, orientada a objetos y ultimamente la funcional. he ido implementando nuevas
+		y buenas practicas en el dise;o y desarrollo de soluciones como son los principios SOLID y algunos patrones de diseño.
+
+  * fortalezas  
+		habilidades técnicas en programación, diseño de software y arquitectura
+		Dominio de lenguajes de programación, bases de datos y estructuras de datos.
+		Pensamiento lógico y analítico para encontrar soluciones.
+		Adaptabilidad, facilidad y deseo para aprender nuevas tecnologías y herramientas						
+		Capacidad de explicar ideas complejas de manera clara.
+		Trabajo en equipo y colaboración con otros ingenieros y gerentes de proyecto; 
+		Proactividad e iniciativa para identificar áreas de mejora y proponer innovaciones
+		Compromiso con el aprendizaje continuo y el desarrollo profesional
+		
+  ** experiencia
+		VASC
+  * habilidades
+		C#, Javascript Typescript, Python
+		HTML, CSS, Git
+		MS SQL Server, MySQL, PosgreSQL
+
+  * Aprendiendo
+		Android-Kotlin, Solidity, Firebase
+
+
+
+  * certificacion
+		Java 
+  * idiomas
+		Español
+		Ingles
+		
+  * educacion
+		UV
+		CBTis
+		Instituto tecnologico Roosevelt
+
+  * mi tiempo
+
+*/
